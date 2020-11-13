@@ -8,3 +8,7 @@ The colors of the bars change to denote past, present and future tasks.
 
 Further development will enable longer term planning, but so far, it is only one day at a time.
 
+![url](https://chefjaypeek.github.io/work_day_scheduler/index.html)
+
+![picture](workSchedScreenShot.png)
+
